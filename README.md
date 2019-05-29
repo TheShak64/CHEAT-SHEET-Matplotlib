@@ -7,4 +7,5 @@ This sheet covers the two types of plots, the quick basic single plots and the F
 -	Labels and text
 -	ticks
 -	Annotation and legends
+- A small mention on the seaborn library 
 -	Specific pointers into plotting an axis with datetime data 
